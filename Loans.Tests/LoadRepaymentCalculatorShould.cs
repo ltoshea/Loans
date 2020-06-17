@@ -9,10 +9,20 @@ namespace Loans.Tests
     public class LoadRepaymentCalculatorShould
     {
         [Test]
-        [TestCase(200_000, 6.5, 30, 1264.14)]
-        [TestCase(200_000, 10, 30, 1755.14)]
-        [TestCase(500_000, 10, 30, 4387.86)]
-        public void CalculateCorrectMonthlyRepayment_SimplifiedTestCase(decimal principal, decimal interestRate, int termInYears, decimal expectedMonthlyPayment)
+        [TestCase(200_000, 6.5, 30, ExpectedResult = 1264.14)]
+        [TestCase(200_000, 10, 30, ExpectedResult = 1755.14)]
+        [TestCase(500_000, 10, 30, ExpectedResult = 4387.86)]
+        public decimal CalculateCorrectMonthlyRepayment(decimal principal, decimal interestRate, int termInYears)
+        {
+            //Arrange
+            var sut = new LoanRepaymentCalculator();
+            
+            return sut.CalculateMonthlyRepayment(new LoanAmount("USD", principal), interestRate, new LoanTerm(termInYears));
+        }
+
+        [Test]
+        [TestCaseSource(typeof(MonthlyRepaymentTestData), "TestCases")]
+        public void CalculateCorrectMonthlyRepayment_Centralised(decimal principal, decimal interestRate, int termInYears, decimal expectedMonthlyPayment)
         {
             //Arrange
             var sut = new LoanRepaymentCalculator();
@@ -23,14 +33,12 @@ namespace Loans.Tests
         }
 
         [Test]
-        [TestCase(200_000, 6.5, 30, ExpectedResult = 1264.14)]
-        [TestCase(200_000, 10, 30, ExpectedResult = 1755.14)]
-        [TestCase(500_000, 10, 30, ExpectedResult = 4387.86)]
-        public decimal CalculateCorrectMonthlyRepayment(decimal principal, decimal interestRate, int termInYears)
+        [TestCaseSource(typeof(MonthlyRepaymentTestDataWithReturn), "TestCases")]
+        public decimal CalculateCorrectMonthlyRepayment_CentralisedWithReturn(decimal principal, decimal interestRate, int termInYears)
         {
             //Arrange
             var sut = new LoanRepaymentCalculator();
-            
+
             return sut.CalculateMonthlyRepayment(new LoanAmount("USD", principal), interestRate, new LoanTerm(termInYears));
         }
     }

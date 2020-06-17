@@ -1,8 +1,0 @@
-C:\code\tests\pluralsight\Nunit3\nunit-3-dotnet-testing-introduction\02\demos\before\02FirstTest\Loans\bin\Debug\netcoreapp2.1\Loans.deps.json
-C:\code\tests\pluralsight\Nunit3\nunit-3-dotnet-testing-introduction\02\demos\before\02FirstTest\Loans\bin\Debug\netcoreapp2.1\Loans.dll
-C:\code\tests\pluralsight\Nunit3\nunit-3-dotnet-testing-introduction\02\demos\before\02FirstTest\Loans\bin\Debug\netcoreapp2.1\Loans.pdb
-C:\code\tests\pluralsight\Nunit3\nunit-3-dotnet-testing-introduction\02\demos\before\02FirstTest\Loans\obj\Debug\netcoreapp2.1\Loans.csprojAssemblyReference.cache
-C:\code\tests\pluralsight\Nunit3\nunit-3-dotnet-testing-introduction\02\demos\before\02FirstTest\Loans\obj\Debug\netcoreapp2.1\Loans.AssemblyInfoInputs.cache
-C:\code\tests\pluralsight\Nunit3\nunit-3-dotnet-testing-introduction\02\demos\before\02FirstTest\Loans\obj\Debug\netcoreapp2.1\Loans.AssemblyInfo.cs
-C:\code\tests\pluralsight\Nunit3\nunit-3-dotnet-testing-introduction\02\demos\before\02FirstTest\Loans\obj\Debug\netcoreapp2.1\Loans.dll
-C:\code\tests\pluralsight\Nunit3\nunit-3-dotnet-testing-introduction\02\demos\before\02FirstTest\Loans\obj\Debug\netcoreapp2.1\Loans.pdb

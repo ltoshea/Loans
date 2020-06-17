@@ -1,0 +1,16 @@
+C:\code\tests\pluralsight\Nunit3\nunit-3-dotnet-testing-introduction\02\demos\before\02FirstTest\Loans.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\code\tests\pluralsight\Nunit3\nunit-3-dotnet-testing-introduction\02\demos\before\02FirstTest\Loans.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\code\tests\pluralsight\Nunit3\nunit-3-dotnet-testing-introduction\02\demos\before\02FirstTest\Loans.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\code\tests\pluralsight\Nunit3\nunit-3-dotnet-testing-introduction\02\demos\before\02FirstTest\Loans.Tests\bin\Debug\netcoreapp2.1\Loans.Tests.deps.json
+C:\code\tests\pluralsight\Nunit3\nunit-3-dotnet-testing-introduction\02\demos\before\02FirstTest\Loans.Tests\bin\Debug\netcoreapp2.1\Loans.Tests.runtimeconfig.json
+C:\code\tests\pluralsight\Nunit3\nunit-3-dotnet-testing-introduction\02\demos\before\02FirstTest\Loans.Tests\bin\Debug\netcoreapp2.1\Loans.Tests.runtimeconfig.dev.json
+C:\code\tests\pluralsight\Nunit3\nunit-3-dotnet-testing-introduction\02\demos\before\02FirstTest\Loans.Tests\bin\Debug\netcoreapp2.1\Loans.Tests.dll
+C:\code\tests\pluralsight\Nunit3\nunit-3-dotnet-testing-introduction\02\demos\before\02FirstTest\Loans.Tests\bin\Debug\netcoreapp2.1\Loans.Tests.pdb
+C:\code\tests\pluralsight\Nunit3\nunit-3-dotnet-testing-introduction\02\demos\before\02FirstTest\Loans.Tests\bin\Debug\netcoreapp2.1\Loans.dll
+C:\code\tests\pluralsight\Nunit3\nunit-3-dotnet-testing-introduction\02\demos\before\02FirstTest\Loans.Tests\bin\Debug\netcoreapp2.1\Loans.pdb
+C:\code\tests\pluralsight\Nunit3\nunit-3-dotnet-testing-introduction\02\demos\before\02FirstTest\Loans.Tests\obj\Debug\netcoreapp2.1\Loans.Tests.csprojAssemblyReference.cache
+C:\code\tests\pluralsight\Nunit3\nunit-3-dotnet-testing-introduction\02\demos\before\02FirstTest\Loans.Tests\obj\Debug\netcoreapp2.1\Loans.Tests.AssemblyInfoInputs.cache
+C:\code\tests\pluralsight\Nunit3\nunit-3-dotnet-testing-introduction\02\demos\before\02FirstTest\Loans.Tests\obj\Debug\netcoreapp2.1\Loans.Tests.AssemblyInfo.cs
+C:\code\tests\pluralsight\Nunit3\nunit-3-dotnet-testing-introduction\02\demos\before\02FirstTest\Loans.Tests\obj\Debug\netcoreapp2.1\Loans.Tests.csproj.CopyComplete
+C:\code\tests\pluralsight\Nunit3\nunit-3-dotnet-testing-introduction\02\demos\before\02FirstTest\Loans.Tests\obj\Debug\netcoreapp2.1\Loans.Tests.dll
+C:\code\tests\pluralsight\Nunit3\nunit-3-dotnet-testing-introduction\02\demos\before\02FirstTest\Loans.Tests\obj\Debug\netcoreapp2.1\Loans.Tests.pdb
